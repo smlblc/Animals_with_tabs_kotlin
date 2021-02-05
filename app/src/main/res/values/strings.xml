@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Animals_with_tabs_kotlin</string>
+    <string-array name="animals_english">
+        <item>Cat</item>
+        <item>Cow</item>
+        <item>Dog</item>
+        <item>Horse</item>
+        <item>Mice</item>
+        <item>Monkey</item>
+        <item>Bird</item>
+        <item>Bunny</item>
+        <item>Sheep</item>
+    </string-array>
+
+    <string-array name="pictures">
+        <item>cat</item>
+        <item>cow</item>
+        <item>dog</item>
+        <item>horse</item>
+        <item>mice</item>
+        <item>monkey</item>
+        <item>parrot</item>
+        <item>rabbit</item>
+        <item>sheep</item>
+    </string-array>
+</resources>
